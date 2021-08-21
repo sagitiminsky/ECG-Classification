@@ -1,0 +1,11 @@
+ecg_plot
+scipy
+pandas
+pydrive
+google-cloud-storage==1.41.1
+uuid==1.30
+torch
+torchvision
+GPUtil
+numba
+PyWavelets==1.1.1

@@ -1,0 +1,23 @@
+MIT-BIH:
+main article: https://ieeexplore.ieee.org/document/8759878
+https://physionet.org/content/mitdb/1.0.0/
+https://archive.physionet.org/faq.shtml
+how mit-bih created: https://physionet.org/physiobank/database/html/mitdbdir/intro.htm
+work with wfdb: https://github.com/MIT-LCP/wfdb-python/blob/master/demo.ipynb
+https://github.com/physhik/ecg-mit-bih
+kaggle: https://www.kaggle.com/shayanfazeli/heartbeat
+
+Overleaf:
+https://www.overleaf.com/4713153523cdsbvhfmxnjm
+
+wavelet artocle: file:///C:/Users/%D7%91%D7%A8%D7%A7/Downloads/entropy-18-00285-v2.pdf
+
+Google Cloud: https://console.cloud.google.com/storage/browser/_details/ecg-arrhythmia-classification/data_map?project=model-azimuth-321409
+data_map: https://storage.cloud.google.com/ecg-arrhythmia-classification/data_map
+
+colab: https://colab.research.google.com/drive/1qyhjhjcAa9q87zXtEfUT6VcMDvs_1KAB#scrollTo=3GNWm27wboFW&uniqifier=1
+W&B runs stats: https://wandb.ai/barak/ECG_spec_classify?workspace=user-barak
+
+normalizing flow
+diffusion model
+
